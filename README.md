@@ -3,15 +3,15 @@
 Wordy is a recreation of the online game [Wordle](https://www.nytimes.com/games/wordle/index.html) using JavaFX. This was my final project for CSCE 314: Programming Languages at Texas A&M University. Since this was a school project, I can't share my source code with you, but you are welcome to download the game and try it out yourself!
 
 <p align="center">
-  <img src="/images/blankGUI.png" alt="Wordy GUI" width=600 />
+  <img src="/images/blankGUI.png" alt="Wordy GUI" width=500 />
 </p>
 
 ## Features
 
 <p align="center">
-  <img src="/images/loadSaveFeature.png" alt="Load/Save Feature" width=300 />
-  <img src="/images/gameInProgress.png" alt="Game In Progress" width=300 />
-  <img src="/images/statScreen.png" alt="Post-Game Stats" width=300 />
+  <img src="/images/loadSaveFeature.png" alt="Load/Save Feature" width=250 />
+  <img src="/images/gameInProgress.png" alt="Game In Progress" width=250 />
+  <img src="/images/statScreen.png" alt="Post-Game Stats" width=250 />
 </p>
 
 - **Load & Save**: Pick up where you left off after quitting a game in progress.
